@@ -15,3 +15,6 @@
 ### Para ele salvar no git hub coloque o comando (git push -u origin main)
 ## PASSO 6:
 ### Está pronto a sua alteração
+
+# GIT PULL
+### Ele sincroniza os arquivos do github para a maquina local (git pull)
